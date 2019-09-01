@@ -1,0 +1,14 @@
+/home/carlie/exercism/csharp/resistor-color/obj/Debug/netcoreapp2.1/ResistorColor.csprojAssemblyReference.cache
+/home/carlie/exercism/csharp/resistor-color/obj/Debug/netcoreapp2.1/ResistorColor.csproj.CoreCompileInputs.cache
+/home/carlie/exercism/csharp/resistor-color/obj/Debug/netcoreapp2.1/ResistorColor.AssemblyInfoInputs.cache
+/home/carlie/exercism/csharp/resistor-color/obj/Debug/netcoreapp2.1/ResistorColor.AssemblyInfo.cs
+/home/carlie/exercism/csharp/resistor-color/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/carlie/exercism/csharp/resistor-color/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/carlie/exercism/csharp/resistor-color/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/carlie/exercism/csharp/resistor-color/bin/Debug/netcoreapp2.1/ResistorColor.deps.json
+/home/carlie/exercism/csharp/resistor-color/bin/Debug/netcoreapp2.1/ResistorColor.runtimeconfig.json
+/home/carlie/exercism/csharp/resistor-color/bin/Debug/netcoreapp2.1/ResistorColor.runtimeconfig.dev.json
+/home/carlie/exercism/csharp/resistor-color/bin/Debug/netcoreapp2.1/ResistorColor.dll
+/home/carlie/exercism/csharp/resistor-color/bin/Debug/netcoreapp2.1/ResistorColor.pdb
+/home/carlie/exercism/csharp/resistor-color/obj/Debug/netcoreapp2.1/ResistorColor.dll
+/home/carlie/exercism/csharp/resistor-color/obj/Debug/netcoreapp2.1/ResistorColor.pdb
