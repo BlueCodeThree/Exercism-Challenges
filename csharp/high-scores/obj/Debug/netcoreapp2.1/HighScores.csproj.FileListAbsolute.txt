@@ -1,0 +1,14 @@
+/home/carlie/exercism/csharp/high-scores/obj/Debug/netcoreapp2.1/HighScores.csprojAssemblyReference.cache
+/home/carlie/exercism/csharp/high-scores/obj/Debug/netcoreapp2.1/HighScores.csproj.CoreCompileInputs.cache
+/home/carlie/exercism/csharp/high-scores/obj/Debug/netcoreapp2.1/HighScores.AssemblyInfoInputs.cache
+/home/carlie/exercism/csharp/high-scores/obj/Debug/netcoreapp2.1/HighScores.AssemblyInfo.cs
+/home/carlie/exercism/csharp/high-scores/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/carlie/exercism/csharp/high-scores/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/carlie/exercism/csharp/high-scores/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/carlie/exercism/csharp/high-scores/bin/Debug/netcoreapp2.1/HighScores.deps.json
+/home/carlie/exercism/csharp/high-scores/bin/Debug/netcoreapp2.1/HighScores.runtimeconfig.json
+/home/carlie/exercism/csharp/high-scores/bin/Debug/netcoreapp2.1/HighScores.runtimeconfig.dev.json
+/home/carlie/exercism/csharp/high-scores/bin/Debug/netcoreapp2.1/HighScores.dll
+/home/carlie/exercism/csharp/high-scores/bin/Debug/netcoreapp2.1/HighScores.pdb
+/home/carlie/exercism/csharp/high-scores/obj/Debug/netcoreapp2.1/HighScores.dll
+/home/carlie/exercism/csharp/high-scores/obj/Debug/netcoreapp2.1/HighScores.pdb
