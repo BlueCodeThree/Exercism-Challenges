@@ -25,7 +25,7 @@ public static class Hamming
         {
             if (firstStrandList[i] != secondStrandList[i])
             {
-                differenceCount += 1;
+                differenceCount++;
             }
         }
         return differenceCount;
