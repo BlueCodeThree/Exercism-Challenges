@@ -1,0 +1,14 @@
+/home/carlie/exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.csprojAssemblyReference.cache
+/home/carlie/exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.csproj.CoreCompileInputs.cache
+/home/carlie/exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.AssemblyInfoInputs.cache
+/home/carlie/exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.AssemblyInfo.cs
+/home/carlie/exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/carlie/exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/carlie/exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/carlie/exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/RobotName.deps.json
+/home/carlie/exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/RobotName.runtimeconfig.json
+/home/carlie/exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/RobotName.runtimeconfig.dev.json
+/home/carlie/exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/RobotName.dll
+/home/carlie/exercism/csharp/robot-name/bin/Debug/netcoreapp2.1/RobotName.pdb
+/home/carlie/exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.dll
+/home/carlie/exercism/csharp/robot-name/obj/Debug/netcoreapp2.1/RobotName.pdb
